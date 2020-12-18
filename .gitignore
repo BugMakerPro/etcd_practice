@@ -4,8 +4,8 @@
 *.dll
 *.so
 *.dylib
-github_key
-github_key.pub
+#github_key
+#github_key.pub
 
 # Test binary, built with `go test -c`
 *.test
